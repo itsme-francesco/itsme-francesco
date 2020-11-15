@@ -1,6 +1,6 @@
 ### Hi there, I'm Francesco - an Italian (Full Stack) Developer and UX Advocate 👋
 
-## I'm a Tech enthusiast, Blogger, self-taught Developer, and Pizza lover!
+#### I'm a Tech enthusiast, Blogger, self-taught Developer, and Pizza lover!
 
 - 🌱 I’m currently learning Nuxt.js 
 - 👯 I’m always looking to collaborate to Open Source projects
@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="campusfrancesco.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Francesco Campus | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Francesco Campus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Francesco Campus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="campusfrancesco.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://campusfrancesco.dev)
+[<img align="left" alt="Francesco Campus | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/campusfra)
+[<img align="left" alt="Francesco Campus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/campusfra/)
+[<img align="left" alt="Francesco Campus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/fcampusdev/)
 
 <br />
 
@@ -25,6 +25,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
+<br />
+
 ### Frameworks and Technologies I use:
 
 <img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
@@ -35,6 +37,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
+<br />
 
 ### Tools I love and use:
 
