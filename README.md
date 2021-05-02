@@ -2,9 +2,9 @@
 
 #### I'm a Tech enthusiast, Blogger, self-taught Developer, and Pizza lover!
 
-- 🌱 I’m currently learning Nuxt.js 
+- 🌱 I’m currently learning Next.js 
 - 👯 I’m always looking to collaborate to Open Source projects
-- 🥅 2020 Goals: Deploy a Vue.js/Nuxt.js App
+- 🥅 2021 Goals: Switch to Headless
 - ⚡ Fun fact: I love Cats and Parkour
 
 ### Connect with me:
