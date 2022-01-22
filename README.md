@@ -2,9 +2,9 @@
 
 #### I'm a Tech enthusiast, Blogger, self-taught Developer, and Pizza lover!
 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning Inertia.js
 - 👯 I’m always looking to collaborate to Open Source projects
-- 🥅 2021 Goals: Switch to Headless
+- 🥅 2022 Goals: Release two eBooks and a couple of free plugin/themes for WordPress
 - ⚡ Fun fact: I love Cats and Parkour
 
 ### Connect with me:
