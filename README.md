@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="campusfrancesco.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://campusfrancesco.dev)
-[<img align="left" alt="Francesco Campus | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/campusfra)
-[<img align="left" alt="Francesco Campus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/campusfra/)
+[<img align="left" alt="Francesco Campus | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/fcampusdev)
+[<img align="left" alt="Francesco Campus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fcampusdev/)
 [<img align="left" alt="Francesco Campus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/fcampusdev/)
 
 <br />
