@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Framer Motion
 - 👯 I’m always looking to collaborate to Open Source projects
-- 🥅 2023 Goals: Rebrand Codifigata & release my first SaaS project
+- 🥅 2024 Goals: Release my first SaaS project
 - ⚡ Fun fact: I love Cats and Parkour
 
 ### Connect with me:
