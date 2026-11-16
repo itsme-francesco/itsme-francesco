@@ -9,8 +9,13 @@ Consulente digitale e sviluppatore per PMI, agenzie e privati. Autodidatta, lavo
 - 🔍 SEO tecnica
 - 🧩 Web app e plugin WordPress su misura con Laravel e lo stack TALL
 
+#### I miei plugin su WordPress.org
+- 🔒 [Codifigata Content Login Gate](https://wordpress.org/plugins/codifigata-content-login-gate/): riserva articoli, pagine o singole sezioni agli utenti registrati, con contenuto sfocato o nascosto e pulsante di accesso personalizzabile
+- 🎨 [FC Login Customizer](https://wordpress.org/plugins/fc-login-customizer/): porta logo, nome del sito e link alla home nella schermata di login, senza nessuna configurazione
+
+Tutti i miei plugin pubblici sono su [profiles.wordpress.org/codifigata](https://profiles.wordpress.org/codifigata/).
+
 #### Open source
-- [Codifigata Content Login Gate](https://wordpress.org/plugins/codifigata-content-login-gate/), plugin gratuito su WordPress.org
 - [Traduzioni italiane](https://github.com/codifigata/wwraq-it-translations) per WebToffee WooCommerce Request a Quote
 
 #### Stack
